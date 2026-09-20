@@ -1,0 +1,11 @@
+start,end,industry
+01,09,"Agriculture, Forestry, Fishing"
+10,14,Mining
+15,17,Construction
+20,39,Manufacturing
+40,49,Transportation & Public Utilities
+50,51,Wholesale Trade
+52,59,Retail Trade
+60,67,"Finance, Insurance, Real Estate"
+70,89,Services
+91,99,Public Administration
