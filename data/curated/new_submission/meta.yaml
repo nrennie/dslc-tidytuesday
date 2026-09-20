@@ -1,0 +1,18 @@
+title: "Scotland's Gender Pay Gap"
+article:
+  title: "Gender pay gap reporting"
+  url: "https://www.acas.org.uk/gender-pay-gap-reporting"
+data_source:
+  title: "Gender Pay Gap Service"
+  url: "https://gender-pay-gap.service.gov.uk/viewing/download"
+images:
+# Please include at least one image, and up to three images
+- file: "chart.png"
+  alt: >
+    Barcode chart showing the median percentage difference pay gap reported by companies between 2017/18 and 2025/26. Bars are coloured by whether men or women earn more on average. Most of the bars show that men earn more in an organisation, but the largest abolsute values of difference tend to be in organisations where women earn more.
+credit:
+  post: "Nicola Rennie"
+  github: "@nrennie"
+  bluesky: "@nrennie.bsky.social"
+  linkedin: "@nicola-rennie"
+  mastodon: "@nrennie@fosstodon.org"
